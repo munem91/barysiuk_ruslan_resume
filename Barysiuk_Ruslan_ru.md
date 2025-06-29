@@ -121,5 +121,12 @@
 
 ## 🗣 Языки
 
-**Русский** — родной  
-**Английский** — B2 (техническая документация, письменная коммуникация)
+**Belarusian** — native  
+**Russian** — fluent  
+**English** — B2 (technical documentation, written communication)  
+**Ukrainian** — reading and comprehension  
+**Spanish** — basic level
+
+## 🎵 Hobbies
+
+Hang Drum, music, guitar, streaming, art
