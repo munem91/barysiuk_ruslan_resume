@@ -123,5 +123,13 @@ Learned Flutter and contributed to a social platform.
 
 ## 🗣 Languages
 
-**Russian** — Native  
-**English** — B2 (technical documentation, written communication)
+**Belarusian** — native  
+**Russian** — fluent  
+**English** — B2 (technical documentation, written communication)  
+**Ukrainian** — reading and comprehension  
+**Spanish** — basic level
+
+## 🎵 Hobbies
+
+Hang Drum, music, guitar, streaming, art
+
