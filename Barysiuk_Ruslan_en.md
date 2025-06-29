@@ -127,9 +127,9 @@ Learned Flutter and contributed to a social platform.
 **Russian** — fluent  
 **English** — B2 (technical documentation, written communication)  
 **Ukrainian** — reading and comprehension  
-**Spanish** — basic level
+**Spanish** — beginner level
 
 ## 🎵 Hobbies
 
-Hang Drum, music, guitar, streaming, art
+I play the Hang Drum and guitar, stream on TikTok, and enjoy art, crypto, NFTs, AI-generated art, YouTube, and other social platforms.
 
