@@ -1,19 +1,19 @@
 # 📌 Ruslan Barysiuk | Flutter Developer with 3.5 Years of Experience
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <p><strong>📍 Sri Lanka 🇱🇰<br>🇧🇾 Belarus</strong></p>
-      ✉️ borisukruslan1@hotmail.com <br>
-      📞 WhatsApp: +94741585577<br>
-      📞 Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a><br>
-      🔗 LinkedIn: <a href="https://www.linkedin.com/in/ruslan-barysiuk-005b27236/">ruslan-barysiuk</a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="AVA.jpg" alt="avatar" style="border-radius: 10px; height: 100px; object-fit: cover;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+  <div style="flex-shrink: 0;">
+    <img src="AVA.jpg" alt="avatar" style="border-radius: 10px; height: 100px; width: 100px; object-fit: cover;">
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>📍 Sri Lanka 🇱🇰<br>🇧🇾 Belarus</strong></p>
+    ✉️ borisukruslan1@hotmail.com<br>
+    📞 WhatsApp: +94741585577<br>
+    📞 Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a><br>
+    🔗 LinkedIn: <a href="https://www.linkedin.com/in/ruslan-barysiuk-005b27236/">ruslan-barysiuk</a>
+  </div>
+
+</div>
+
 
 ---
 
