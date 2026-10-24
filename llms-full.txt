@@ -1,0 +1,151 @@
+<!-- Full resume of Ruslan Barysiuk (Senior Flutter Developer) as plain Markdown. Web version: https://munem91.github.io/barysiuk_ruslan_resume/en.html · summary: https://munem91.github.io/barysiuk_ruslan_resume/llms.txt -->
+
+# Ruslan Barysiuk
+
+**Senior Flutter Developer · iOS & Android (Swift, Kotlin)**
+
+Bangkok, GMT+7 · Remote, full-time
+
+Telegram: [t.me/art_munem](https://t.me/art_munem) · Email: [borisukrusaln12345@gmail.com](mailto:borisukrusaln12345@gmail.com) · Phone / WhatsApp: +66 80 285 5847
+
+GitHub: [github.com/munem91](https://github.com/munem91) · LinkedIn: [linkedin.com/in/ruslan-barysiuk-005b27236](https://www.linkedin.com/in/ruslan-barysiuk-005b27236/) · Portfolio: [munem91.github.io/barysiuk_ruslan_resume](https://munem91.github.io/barysiuk_ruslan_resume/en.html)
+
+## Summary
+
+Senior Flutter developer with 5 years of commercial experience and 6 apps on the App Store and Google Play. Specializing in Flutter with deep platform integrations: real-time video (WebRTC, LiveKit), on-device ML and computer vision, camera, health data (HealthKit, Health Connect) and subscriptions (StoreKit 2, Google Play Billing, RevenueCat); native Swift/Kotlin for billing, Platform Channels and a SwiftUI watchOS prototype.
+
+Own the mobile side from estimates and roadmap to release, store review and rejection fixes. Clean Architecture, BLoC, TDD, CI/CD. Work closely with backend engineers, pairing on API contracts and integrations.
+
+Before IT, spent 5 years in sales and e-commerce (own online store and offline business). On projects, I uncover client needs, estimate tasks in hours, write specs and roadmaps, and manage work in Jira, Linear and Trello. Ready to lead mobile development.
+
+## Key Skills
+
+- **Flutter & Architecture:** Flutter 3, Dart 3, BLoC/Cubit, Riverpod, Provider, Clean Architecture, Freezed, Injectable/GetIt, AutoRoute, Isolates, Platform Channels, flavors and configs (multiple apps from one codebase), Flutter Web (Telegram Mini App)
+- **Native iOS:** Swift, SwiftUI, watchOS (prototype), StoreKit 2, AVFoundation (AVQueuePlayer), Sign in with Apple, Keychain, APNs, UIPasteControl, code signing and provisioning profiles, TestFlight
+- **Native Android:** Kotlin, Google Play Billing, FFmpeg (ffmpeg_kit), Play Install Referrer, Keystore and app signing, deep links, Android 13/14 permissions, WebView with JS bridges
+- **Camera, CV & ML:** native camera SDKs, patched plugin forks, computer vision, on-device ML, ONNX Runtime, OpenCV, OCR (Tesseract), edge detection, image filters, inference in isolates, DevTools profiling
+- **Video, Real-Time & AI:** WebRTC, LiveKit, WebSocket, SSE streaming, LLM integrations, TTS, REST, gRPC, Dio, Retrofit
+- **Monetization & Analytics:** RevenueCat, In-App Purchases (IAP), StoreKit 2, Google Play Billing, server-side purchase validation (App Store Server Notifications V2, RTDN), paywall and PRO gating, Firebase Analytics, Crashlytics, Adjust, Facebook SDK, referral programs, App Store and Google Play review
+- **Data, Auth & Push:** HealthKit and Health Connect (health package, custom type mapping), Firebase, Serverpod, PostgreSQL, Supabase, ObjectBox, Hive CE, SQLite, Secure Storage, offline-first, Sign in with Apple and Google, OAuth 2.0, FCM
+- **UI:** Material 3, Rive, Figma-to-code (Figma MCP), fl_chart, just_audio, slang (i18n), responsive layouts
+- **Testing & Release:** TDD, unit and widget tests, bloc_test, mocktail, GitHub Actions, CI/CD, Fastlane, Docker, FVM, --dart-define
+- **Process & AI-Assisted Development:** Scrum, Kanban, Jira, Linear, Trello, Hubstaff, Notion, estimates in hours, roadmaps, code audits, Claude Code, Cursor, agentic pipelines, reviewer agent, Dart MCP, Postman, git-flow
+
+## Experience
+
+### Senior Flutter Developer — Document Scanner & PDF Editor (contract)
+
+Sep 2026 – Oct 2026 · Remote · iOS and Android
+
+- Joined a project stuck before release: audited the codebase, documented the architecture and shipped the app to the App Store and Google Play in 1.5 months.
+- Improved the camera on native iOS and Android SDKs: document, ID, passport, QR and book modes; edge detection, auto-crop, filters.
+- Kept scanning, ML and OCR on-device with no custom backend: ML models (ONNX Runtime), OpenCV, OCR (Tesseract); almost everything is Flutter plus native packages; maintained 8 local plugins and 7 forks of native packages.
+- Built RevenueCat PRO gating: paywall, purchase restore and sync, Apple reviewer access.
+- Fixed camera jank: DevTools profiling, ML inference in an isolate, model pre-warming; reduced app size.
+- Added Firebase Crashlytics and Adjust attribution (neither was in place before).
+- Worked on the PDF module: multi-page documents, signatures, export and sharing; PIN-protected folders.
+- Estimated tasks in hours, tracked work in Trello and Hubstaff, and sent the client regular status updates.
+
+### Senior Flutter Developer — Healthy4u (AI health assistant, product startup)
+
+Jun 2025 – Sep 2026 · Sole mobile developer · Project put on hold
+
+- Rewrote the app from scratch in Flutter (previously an iOS-only native Swift app) and shipped it to the App Store and Google Play; evolved it for 15 months: regular releases and store reviews, new features; Clean Architecture, BLoC/Cubit, Freezed, AutoRoute, TDD.
+- Rebuilt the AI chat in Flutter: LLM response streaming (SSE), text-to-speech (TTS) with voice selection, fallback when the quota runs out.
+- Built native subscriptions and in-app purchases without RevenueCat: StoreKit 2 and Google Play Billing; server-side purchase validation (App Store Server Notifications V2, RTDN) paired with the backend developer: I built the client side; the backend developer built server-side validation.
+- Integrated watch and phone health data: HealthKit (40+ types) and Health Connect; chose the data types with Google Play review requirements in mind.
+- Prototyped a watchOS app in SwiftUI: voice assistant, SSE chat, streaming TTS (AVQueuePlayer).
+- Passed several App Store review cycles and resolved Guideline 1.4.1 and 3.1.2(c) rejections; added Sign in with Apple and Google.
+- Set up analytics and growth: Firebase Analytics, Facebook SDK, a referral program (Play Install Referrer, UIPasteControl).
+- Delivered a Figma redesign through an AI pipeline: Figma MCP, device screenshots, a reviewer agent.
+
+### Senior Flutter Developer — ProveUp (fitness battles and freestyle football, contract)
+
+May 2026 – Sep 2026 · In parallel with Healthy4u · iOS and Android, TestFlight
+
+- Implemented camera-based rep counting with computer vision (ball juggling, pull-ups, crunches); battles, rankings, missions.
+- Implemented WebRTC/LiveKit video calls; avatars assembled from gear layers with server-side compositing; Rive animations.
+- Integrated Sign in with Apple (ASAuthorizationController, Keychain) and APNs and FCM push notifications per the API contract with the backend developer.
+- Set up two builds from one codebase (prod/legacy flavors), migrated to a new Apple developer account, handled manual code signing and TestFlight (internal and external beta).
+- Made the case for StoreKit and Google Play Billing over Stripe for virtual goods (store rules).
+- Tracked tasks in Linear, held syncs with the PM and client, and delivered code to the client per an agreed process (semver, runbook).
+
+### Flutter Developer & Project Manager — forYou Inc (Agrotook marketplace)
+
+Oct 2024 – May 2025 · Google Play
+
+- Built a classifieds marketplace for the Spanish agricultural market solo and released it on Google Play: auth, filters, listings, Material 3, localization (slang).
+- Ran the project: client communication, gathering and formalizing requirements, development plan and tasks in Trello, deadline tracking; launched the MVP on time.
+- Set up CI/CD with GitHub Actions and Docker, environments via --dart-define; handled store publishing and moderation.
+
+### Flutter Developer — Freelance (contract projects)
+
+Mar 2024 – Sep 2024
+
+- Revived a 5-year-old legacy VPN app and updated its SDKs.
+- Migrated a legacy app to Dart 3 and Android 13/14; built native Kotlin modules on top of FFmpeg (ffmpeg_kit).
+- Built WebView apps with JS bridges and a Telegram Mini App on Flutter Web.
+
+### Flutter Developer — Gybernaty Community (gyber.org)
+
+Dec 2023 – Feb 2024
+
+- Developed custodial and non-custodial crypto wallets (Gyber Wallet): wallet creation and import, seed phrase, assets; web3dart, Ankr, Serverpod, BLoC; distributed team.
+
+### Flutter Developer — Kerla (classifieds marketplace)
+
+Aug 2023 – Nov 2023 · Google Play
+
+- Developed the catalog and feed, filters, seller profile and listing creation; Riverpod, Serverpod, PostgreSQL, Docker, CI/CD.
+
+### Flutter Developer — Rabotnik24 (hiring platform)
+
+Jul 2022 – Jul 2023 · Google Play
+
+- Contributed to a large team project: candidate and employer roles, openings, applications, company details; Clean Architecture, BLoC, Freezed, Firebase, Dio, REST; WebView with JS bridges; git-flow.
+
+### Junior Flutter Developer — SFERA (social platform)
+
+Jan 2022 – Jun 2022 · App Store
+
+- First role on a Flutter team. Before that, in 2021: commercial front-end development in React.
+
+### Before IT: Sales & E-commerce
+
+2017 – 2021
+
+- Launched an online store and an offline business: sales, negotiations, content, coordinating small teams in Trello.
+- Worked with developers as the client: assigned tasks, tested platforms, found bugs, accepted deliverables.
+
+## Product, Management & Soft Skills
+
+- Discovery and specs: uncover client needs, formalize requirements and user stories.
+- Break work down and estimate it in hours; build roadmaps with milestones and priorities; defend timelines to the business.
+- Scrum and Kanban: backlog, sprint planning, retros; Jira, Linear, Trello, time tracking in Hubstaff.
+- Release cycle: CI/CD, build signing, TestFlight, code delivery to clients; auditing inherited code and planning stabilization.
+- Pair with backend engineers: agree on API contracts and close integrations fast. When something breaks on the backend, I speak up with a report that includes logs and expected behavior, so a colleague can fix it faster.
+- Specific, timely feedback to designers, backend engineers and clients; demos, status updates and reasoning in business terms.
+- AI agents in daily work for 1.5 years: code, specs, estimates, reviews; used Dart MCP to find and remove 2,000+ unnecessary widget rebuilds.
+- Ready for a team lead role: own the whole mobile side, including architecture, estimates, releases, and syncs with the PM and client.
+
+## Links
+
+- Portfolio site with screenshots: <https://munem91.github.io/barysiuk_ruslan_resume/en.html> (repository: <https://github.com/munem91/barysiuk_ruslan_resume>)
+- GitHub: <https://github.com/munem91> (account since 2020, 1,014 contributions in the last year, mostly private repositories; Sep–Oct 2026 commits went to the client’s Bitbucket)
+- LinkedIn: <https://www.linkedin.com/in/ruslan-barysiuk-005b27236/>
+- Healthy4u: App Store <https://apps.apple.com/us/app/healthy4u-ai-health-assistant/id6742141790> · Google Play <https://play.google.com/store/apps/details?id=world.healthy4u.mobile>
+- Agrotook: <https://play.google.com/store/apps/details?id=app.agrotook>
+- Kerla: <https://play.google.com/store/apps/details?id=com.ru.kerla>
+- Rabotnik24: <https://play.google.com/store/apps/details?id=com.rabotnik24.mobile>
+- SFERA: <https://apps.apple.com/app/sfera-project/id1498046044>
+
+## Languages
+
+Belarusian and Russian (native) · Ukrainian (fluent) · English (B1, taking classes 3 times a week)
+
+## Additional
+
+- Letter of recommendation from a previous employer available on request.
+- Network of experienced engineers from past projects; can bring in more developers if needed.
+- Permanently based in Asia (Thailand, GMT+7); citizen of Belarus.
+- Format: remote, full-time or part-time with hourly billing.

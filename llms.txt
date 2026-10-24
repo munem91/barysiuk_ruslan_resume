@@ -1,0 +1,31 @@
+# Ruslan Barysiuk — Senior Flutter Developer (iOS, Android)
+
+> Senior Flutter and mobile developer with 5 years of commercial experience: cross-platform iOS and Android apps in Flutter and Dart with native Swift and Kotlin integrations, 6 apps on the App Store and Google Play. Based in Bangkok, Thailand (GMT+7), works remotely, open to full-time, part-time and contract roles. Also written as Руслан Борисюк (Russian, Ukrainian, Kazakh) and Руслан Барысюк (Belarusian).
+
+- Open to: Senior Flutter Developer, Mobile Developer (Flutter) and Flutter Lead roles; remote; full-time, part-time (hourly) or contract
+- Strengths: subscriptions and in-app purchases (StoreKit 2, Google Play Billing, RevenueCat, server-side validation); health data (HealthKit, Health Connect, watchOS prototype); real-time video (WebRTC, LiveKit); camera, computer vision, on-device ML and OCR (ONNX Runtime, OpenCV, Tesseract); code audits and taking stalled projects to release; AI-native development (Claude Code, Cursor, MCP)
+- Stack: Flutter 3, Dart 3, BLoC, Riverpod, Clean Architecture, Swift, SwiftUI, Kotlin, Platform Channels, Firebase, CI/CD, Fastlane
+- Languages: Russian and Belarusian (native), Ukrainian (fluent), English (B1)
+- Contact: Telegram [@art_munem](https://t.me/art_munem) (fastest), email borisukrusaln12345@gmail.com, [LinkedIn](https://www.linkedin.com/in/ruslan-barysiuk-005b27236/), [GitHub](https://github.com/munem91)
+
+## Resume
+
+- [Resume in English](https://munem91.github.io/barysiuk_ruslan_resume/en.html): apps, skills, experience and contacts
+- [Резюме на русском](https://munem91.github.io/barysiuk_ruslan_resume/ru.html)
+- [Резюме українською](https://munem91.github.io/barysiuk_ruslan_resume/uk.html)
+- [Рэзюмэ па-беларуску](https://munem91.github.io/barysiuk_ruslan_resume/be.html)
+- [Түйіндеме қазақша](https://munem91.github.io/barysiuk_ruslan_resume/kk.html)
+- [Full resume as plain text](https://munem91.github.io/barysiuk_ruslan_resume/llms-full.txt): every role and project, ready to quote
+- [PDF resume, English](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Light.pdf)
+
+## Projects
+
+- [Healthy4u — AI health assistant](https://apps.apple.com/us/app/healthy4u-ai-health-assistant/id6742141790) (2025–2026): rewrote the native Swift app in Flutter as the sole mobile developer; HealthKit, Health Connect, StoreKit 2 and Google Play Billing; also on [Google Play](https://play.google.com/store/apps/details?id=world.healthy4u.mobile)
+- ProveUp — fitness battles (2026, contract): camera-based rep counting with computer vision, video calls on WebRTC and LiveKit
+- Document scanner and PDF editor (2026, contract): took a stalled project from code audit to App Store and Google Play release in 1.5 months; native camera SDKs, on-device ML and OCR
+- 2022–2025: [Agrotook](https://play.google.com/store/apps/details?id=app.agrotook) and [Kerla](https://play.google.com/store/apps/details?id=com.ru.kerla) marketplaces, [Rabotnik24](https://play.google.com/store/apps/details?id=com.rabotnik24.mobile) hiring platform, [SFERA](https://apps.apple.com/app/sfera-project/id1498046044) social platform, Gyber Wallet crypto wallet
+
+## Optional
+
+- [Work experience page](https://munem91.github.io/barysiuk_ruslan_resume/pages/en-light/Experience.html)
+- [Tech stack page](https://munem91.github.io/barysiuk_ruslan_resume/pages/en-light/Stack.html)
