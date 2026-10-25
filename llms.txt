@@ -15,8 +15,14 @@
 - [Резюме українською](https://munem91.github.io/barysiuk_ruslan_resume/uk.html)
 - [Рэзюмэ па-беларуску](https://munem91.github.io/barysiuk_ruslan_resume/be.html)
 - [Түйіндеме қазақша](https://munem91.github.io/barysiuk_ruslan_resume/kk.html)
+- [Currículum en español](https://munem91.github.io/barysiuk_ruslan_resume/es.html)
+- [CV en français](https://munem91.github.io/barysiuk_ruslan_resume/fr.html)
+- [中文简历](https://munem91.github.io/barysiuk_ruslan_resume/zh.html)
+- [हिन्दी में रिज़्यूमे](https://munem91.github.io/barysiuk_ruslan_resume/hi.html)
+- [السيرة الذاتية بالعربية](https://munem91.github.io/barysiuk_ruslan_resume/ar.html)
 - [Full resume as plain text](https://munem91.github.io/barysiuk_ruslan_resume/llms-full.txt): every role and project, ready to quote
 - [PDF resume, English](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Light.pdf)
+- PDF resume in all 10 languages (6 A4 pages each, also in dark theme): [EN](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Light.pdf) · [RU](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_RU_Light.pdf) · [UKR](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_UKR_Light.pdf) · [BEL](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_BEL_Light.pdf) · [KAZ](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_KAZ_Light.pdf) · [ES](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ES_Light.pdf) · [FR](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_FR_Light.pdf) · [ZH](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ZH_Light.pdf) · [HI](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_HI_Light.pdf) · [AR](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_AR_Light.pdf)
 
 ## Projects
 
