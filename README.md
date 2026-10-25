@@ -18,8 +18,8 @@
 </h3>
 
 <p align="center">
-  <sub>Сайт-резюме: приложения, резюме на английском, русском, украинском и белорусском в светлой и тёмной теме, контакты.<br>
-  Отдельная страница на каждый язык: <a href="https://munem91.github.io/barysiuk_ruslan_resume/en.html">EN</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/ru.html">RU</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/uk.html">UKR</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/be.html">BEL</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/kk.html">KAZ</a>, тёмная тема: <code>?theme=dark</code></sub>
+  <sub>Сайт-резюме: приложения, резюме на 10 языках в светлой и тёмной теме, контакты.<br>
+  Отдельная страница на каждый язык: <a href="https://munem91.github.io/barysiuk_ruslan_resume/en.html">EN</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/ru.html">RU</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/uk.html">UKR</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/be.html">BEL</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/kk.html">KAZ</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/es.html">ES</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/fr.html">FR</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/zh.html">ZH</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/hi.html">HI</a> · <a href="https://munem91.github.io/barysiuk_ruslan_resume/ar.html">AR</a>, тёмная тема: <code>?theme=dark</code></sub>
 </p>
 
 ## Резюме
@@ -31,6 +31,11 @@
 | **Українська** | [PDF](pdf/Barysiuk_Ruslan_Flutter_UKR_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_UKR_Dark.pdf) | — |
 | **Беларуская** | [PDF](pdf/Barysiuk_Ruslan_Flutter_BEL_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_BEL_Dark.pdf) | — |
 | **Қазақша** | [PDF](pdf/Barysiuk_Ruslan_Flutter_KAZ_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_KAZ_Dark.pdf) | — |
+| **Español** | [PDF](pdf/Barysiuk_Ruslan_Flutter_ES_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_ES_Dark.pdf) | — |
+| **Français** | [PDF](pdf/Barysiuk_Ruslan_Flutter_FR_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_FR_Dark.pdf) | — |
+| **中文** | [PDF](pdf/Barysiuk_Ruslan_Flutter_ZH_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_ZH_Dark.pdf) | — |
+| **हिन्दी** | [PDF](pdf/Barysiuk_Ruslan_Flutter_HI_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_HI_Dark.pdf) | — |
+| **العربية** | [PDF](pdf/Barysiuk_Ruslan_Flutter_AR_Light.pdf) | [PDF](pdf/Barysiuk_Ruslan_Flutter_AR_Dark.pdf) | — |
 
 <table>
   <tr>

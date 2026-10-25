@@ -149,3 +149,18 @@ Belarusian and Russian (native) · Ukrainian (fluent) · English (B1, taking cla
 - Network of experienced engineers from past projects; can bring in more developers if needed.
 - Permanently based in Asia (Thailand, GMT+7); citizen of Belarus.
 - Format: remote, full-time or part-time with hourly billing.
+
+## Resume in other languages
+
+The same resume is published in 10 languages (web page and 6-page PDF in light and dark themes):
+
+- English: [en.html](https://munem91.github.io/barysiuk_ruslan_resume/en.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_EN_Dark.pdf)
+- Русский: [ru.html](https://munem91.github.io/barysiuk_ruslan_resume/ru.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_RU_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_RU_Dark.pdf)
+- Українська: [uk.html](https://munem91.github.io/barysiuk_ruslan_resume/uk.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_UKR_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_UKR_Dark.pdf)
+- Беларуская: [be.html](https://munem91.github.io/barysiuk_ruslan_resume/be.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_BEL_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_BEL_Dark.pdf)
+- Қазақша: [kk.html](https://munem91.github.io/barysiuk_ruslan_resume/kk.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_KAZ_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_KAZ_Dark.pdf)
+- Español: [es.html](https://munem91.github.io/barysiuk_ruslan_resume/es.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ES_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ES_Dark.pdf)
+- Français: [fr.html](https://munem91.github.io/barysiuk_ruslan_resume/fr.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_FR_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_FR_Dark.pdf)
+- 中文: [zh.html](https://munem91.github.io/barysiuk_ruslan_resume/zh.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ZH_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_ZH_Dark.pdf)
+- हिन्दी: [hi.html](https://munem91.github.io/barysiuk_ruslan_resume/hi.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_HI_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_HI_Dark.pdf)
+- العربية: [ar.html](https://munem91.github.io/barysiuk_ruslan_resume/ar.html) · PDF: [light](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_AR_Light.pdf), [dark](https://munem91.github.io/barysiuk_ruslan_resume/pdf/Barysiuk_Ruslan_Flutter_AR_Dark.pdf)
